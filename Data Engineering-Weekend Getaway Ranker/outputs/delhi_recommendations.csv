@@ -1,0 +1,6 @@
+name,city,state,google_review_rating,number_of_google_review_in_lakhs,final_score
+Gurudwara Bangla Sahib,New Delhi,Delhi,4.8,1.05,0.8202151130722559
+Jama Masjid,New Delhi,Delhi,4.5,0.49,0.7805901820187534
+Rail Museum,New Delhi,Delhi,4.4,0.24,0.7656701599558743
+Buddh International Circuit,Greater Noida,Uttar Pradesh,4.6,7.4,0.6955102040816326
+Golden Temple (Harmandir Sahib),Amritsar,Punjab,4.9,1.9,0.6913513513513514
