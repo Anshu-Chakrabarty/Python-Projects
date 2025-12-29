@@ -17,7 +17,7 @@ It is built using **FastAPI**, **MongoDB Atlas**, and **JWT authentication**.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Smart-ToDo-API.git
+git clone https://github.com/Anshu-Chakrabarty/Python-Projects/REST_Backend_Project-Smart_ToDo_API.git
 cd Smart-ToDo-API
 
 # Install Dependencies
